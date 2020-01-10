@@ -1,0 +1,2 @@
+include ':app', ':butterKnife-annotation', ':butterKnife-compiler', ':butterknife-core'
+rootProject.name='APTButterkniefStudy'
